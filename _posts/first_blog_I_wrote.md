@@ -1,3 +1,8 @@
+---
+layout: post
+title: A BCI paper!
+---
+
 If I give you a coin and ask you to determine the probability of it
 landing on head for a single toss. What will you do？ A common way is to
 flip the coin 20 times(or the amount you considered as enough) and count
